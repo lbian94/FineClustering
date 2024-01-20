@@ -3,7 +3,10 @@ Automatic Extraction of Fine Structural Information in ARPES by High-order Unsup
 Correspondence should be addressed to Lingzhu Bian (bianlz@ihep.ac.cn)  
 
 # Contents in this repository
-data: The Nano-ARPES data used in this study (RealData.h5)  
+data: The Nano-ARPES data used in this study  
+  - data: the h5 file only including the 4D spatial mapping dataset, which can be directly used in the code
+  - original_pxp_data: the original dataset
+
 notebook: Codes for this study in Jupyter Notebook (*.ipynb)  
   - Main.ipynb: Code for the main body of this paper
   - SI-Traditional_K-means_clustering_on_the_data_of_MoS2: code for study under section "Traditional K-means clustering on the data of MoS2" in Supplymentary Information 
