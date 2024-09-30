@@ -14,9 +14,9 @@ Correspondence should be addressed to Lingzhu Bian (bianlz@ihep.ac.cn)
     - Part2: iEDCs K-means clustering
     - Part3: Multi-Stage Clustering Algorithm (MSCA)
     - Part4: Dependence of cells on the result
-  - SI-A: The code for study of iEDCs K-means clustering on the data of MoS2 (Section A in the supplementary information). **Need to run Main_MSCA.ipynb first**
-  - SI-B: The code for study of two distinct features (Section B in the supplementary information). **Need to run Main_MSCA.ipynb first**
-  - SI-C: The code for study of Reference-based Auto-correlation Clustering (Section C in the supplementary information)
+  - SI-C: The code for study of iEDCs K-means clustering on the data of MoS2 (Section C in the supplementary information). **Need to run Main_MSCA.ipynb first**
+  - SI-D: The code for study of two distinct features (Section D in the supplementary information). **Need to run Main_MSCA.ipynb first**
+  - SI-E: The code for study of Reference-based Auto-correlation Clustering (Section E in the supplementary information)
   - SI-F: The code for study of iEDCs fuzzy-c-means clustering (Section F in the supplementary information)
   - SI-G: The code for study of Principal component analysis (Section G in the supplementary information)
 # Requirements
