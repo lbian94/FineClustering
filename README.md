@@ -5,7 +5,6 @@ Correspondence should be addressed to Lingzhu Bian (bianlz@ihep.ac.cn)
 # Contents in this repository
 **data**: The Nano-ARPES data used in this study  
   - data: the h5 file only including the 4D spatial mapping dataset, which can be directly used in the code.
-  - original_pxp_data: original data containing all information, such as energy, angle values, etc.
   - truth_table.h5: the truth table of the sample in the paper, used to calculate the performance metrics.
 
 **notebook**: Codes for this manuscript in Jupyter Notebook (*.ipynb) enable you to generate all figures and performance metrics
